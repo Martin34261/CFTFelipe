@@ -30,4 +30,4 @@ elif num1 >=100 and num2 <=80:
     print(f"NOCHE: NO EXCEDE: {total2}")
     print(f"CLIENTE PAGA: {totalpago1}")
 
-#ESTO ESTA MEDIO BUENO
+#ESTO ESTA MEDIO BUENO PUEDE QUE LO MEJORE ALGUN DIA
